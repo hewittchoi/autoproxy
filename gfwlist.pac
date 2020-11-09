@@ -16,6 +16,43 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !-----User rules-----
+||telegra.ph
+||rcinet.ca
+||indianexpress.com
+||sth2018.github.io
+||artvine3.org
+||megaupload.com
+||firebaseinstallations.googleapis.com
+||firebase.googleapis.com
+||www.googleapis.com
+||google.com
+||stheadline.com
+||tiktokv.com
+||byteoversea.com
+||tiktok.com
+||ibytedtos.com
+||tkdownload.vip
+||tiktokcdn.com
+||juniorjanz.net
+||6pan.cn
+||ivo-wang.github.io
+||ohmyrss.com
+||mylovelibrabry.com
+||libgen.rs
+||aria2.github.io
+||itorrents.org
+||rezync.com
+||disquscdn.com
+||alexa.com
+||jquery.com
+||dlapk4all.com
+||misk.com
+||wicp.net
+||dropdox.com
+||free-proxy.cz
+||spys.one+direct
+||ssrtool.com
+||pages.github.com
 ||gstatic.com
 ||paofucloud.com
 ||fontawesome.com
