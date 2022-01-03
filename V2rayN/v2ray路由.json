@@ -1,0 +1,41 @@
+[
+  {
+    "inboundTag": [],
+    "outboundTag": "proxy",
+    "ip": [
+      "geoip:telegram",
+      "192.30.255.116"
+    ],
+    "domain": [
+      "geosite:geolocation-!cn",
+      "domain:github.com",
+      "alive.github.com"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "direct",
+    "ip": [
+      "geoip:private",
+      "geoip:cn"
+    ],
+    "domain": [
+      "geosite:cn"
+    ],
+    "enabled": true
+  },
+  {
+    "inboundTag": [],
+    "outboundTag": "block",
+    "domain": [
+      "geosite:category-ads-all"
+    ],
+    "enabled": true
+  }
+]
