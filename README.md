@@ -1,3 +1,6 @@
+# V2Ray相关
+V2Ray 路由规则文件加强版：https://github.com/Loyalsoldier/v2ray-rules-dat
+
 # SwitchyOmega AutoProxy格式的自动切换规则
 
 <P>这是自用的自动代理规则列表
