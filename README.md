@@ -1,4 +1,4 @@
-# AutoProxy格式的自动切换规则
+# SwitchyOmega AutoProxy格式的自动切换规则
 
 <P>这是自用的自动代理规则列表
 <p>黑名单gfwlist.pac来源  https://github.com/gfwlist/gfwlist
