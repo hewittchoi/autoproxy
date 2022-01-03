@@ -12,6 +12,7 @@ var rules = [
     [
         [
             "aftygh.gov.tw",
+            "baidu.com",
             "aide.gov.tw",
             "aliyun.com",
             "arte.gov.tw",
@@ -97,7 +98,7 @@ var rules = [
             "animetorrents.me",
             "avistaz.to",
             "pussytorrents.org",
-			"torrenting.com"
+            "torrenting.com"
             "0rz.tw",
             "1-apple.com.tw",
             "10.tt",
