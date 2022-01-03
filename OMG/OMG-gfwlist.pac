@@ -91,12 +91,12 @@ var rules = [
         ],
         [
             "ssrok.xyz",
-			"030buy.com",
-			"spys.one",
-			"free-proxy.cz",
-			"animetorrents.me",
-			"avistaz.to",
-			"pussytorrents.org",
+            "030buy.com",
+            "spys.one",
+            "free-proxy.cz",
+            "animetorrents.me",
+            "avistaz.to",
+            "pussytorrents.org",
 			"torrenting.com"
             "0rz.tw",
             "1-apple.com.tw",
